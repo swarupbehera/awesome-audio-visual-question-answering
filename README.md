@@ -46,7 +46,7 @@ Markdown format:
 ### 2022
 
 #### ECCV 2022
-- [PACS: A Dataset for Physical Audiovisual CommonSense Reasoning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970286.pdf) - Samuel Yu et al. (ECCV 2022), **ECCV**.
+- [PACS: A Dataset for Physical Audiovisual CommonSense Reasoning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970286.pdf) - Samuel Yu et al. **ECCV**.
 
 #### CVPR 2022
 - [Learning To Answer Questions in Dynamic Audio-Visual Scenarios](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios_CVPR_2022_paper.pdf) - Guangyao Li et al., **CVPR**.
