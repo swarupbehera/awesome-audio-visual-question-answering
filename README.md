@@ -27,7 +27,7 @@ Markdown format:
      * [2022](#2022)
         - [ECCV 2022](#ECCV-2022)
         - [CVPR 2022](#CVPR-2022)
-        - [ACM Multimedia 2022](#ACMMultimedia-2022)
+        - [ACM Multimedia 2022](#ACM-Multimedia-2022)
   * [AVQA Challenge Leaderboard](#avqa-challenge-leaderboard)
   * [Licenses](#licenses)
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
@@ -50,7 +50,7 @@ Markdown format:
 #### CVPR 2022
 - [Learning To Answer Questions in Dynamic Audio-Visual Scenarios](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios_CVPR_2022_paper.pdf) - Guangyao Li et al., **CVPR**.
 
-#### ACM Multimedia 2022
+#### ACM-Multimedia 2022
 - [AVQA: A Dataset for Audio-Visual Question Answering on Videos](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291) - Pinci Yang et al., **ACM Multimedia**.
 
 ## AVQA Challenge Leaderboard
