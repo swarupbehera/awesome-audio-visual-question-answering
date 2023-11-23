@@ -33,7 +33,7 @@ Markdown format:
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
 
 ## Dataset
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![AVQA Dataset Comparison](DC.png?raw=true "AVQA Dataset Comparison")
 <!-- | Dataset | Number of Audios | Duration (hours) | Maximum Duration (seconds) | Average Duration (seconds) | Question-Answer Source | Language | Number of Questions | Number of Answers | Training Set Size | Validation Set Size | Test Set Size |
 |---------|-----------------|------------------|----------------------------|----------------------------|-----------------------|----------|---------------------|-------------------|-------------------|---------------------|----------------|
 | [ClothoAQA](https://zenodo.org/record/6473207) | 1991 | 12.44 | 30 | 21 | Crowdsourced | English | 9153 | 830 | 1174 | 344 | 473 |
