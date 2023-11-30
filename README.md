@@ -28,6 +28,8 @@ Markdown format:
         - [ECCV 2022](#ECCV-2022)
         - [CVPR 2022](#CVPR-2022)
         - [ACM Multimedia 2022](#ACM-Multimedia-2022)
+    * [2021](#2021)
+        - [ICCV 2022](#ICCV-2022)
   * [AVQA Challenge Leaderboard](#avqa-challenge-leaderboard)
   * [Licenses](#licenses)
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
@@ -53,6 +55,11 @@ Markdown format:
 
 #### ACM-Multimedia 2022
 - [AVQA: A Dataset for Audio-Visual Question Answering on Videos](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291) - Pinci Yang et al., **ACM Multimedia**.
+
+### 2021
+
+#### ICCV 2021
+- [Pano-AVQA: Grounded Audio-Visual Question Answering on 360 Degree Videos](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf) - Heeseung Yun et al. **ICCV**.
 
 ## AVQA Challenge Leaderboard
 Stay tuned...
