@@ -27,6 +27,8 @@ Markdown format:
      * [2024](#2024)
      * [2023](#2023)
      * [2022](#2022)
+     * [2021](#2021)
+     * [2020](#2020)
   * [AVQA Challenge Leaderboard](#avqa-challenge-leaderboard)
   * [Licenses](#licenses)
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
@@ -72,12 +74,21 @@ Markdown format:
 - ***_2023-05-29_***: [VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset](https://paperswithcode.com/paper/vast-a-vision-audio-subtitle-text-omni-1) - Xinxin Zhu et al. (Code available)
 - ***_2023-05-25_***: [ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst](https://paperswithcode.com/paper/chatbridge-bridging-modalities-with-large) - Longteng Guo et al. (Code available)
 - ***_2023-05-21_***: [Target-Aware Spatio-Temporal Reasoning via Answering Questions in Dynamics Audio-Visual Scenarios](https://paperswithcode.com/paper/target-aware-spatio-temporal-reasoning-via) - Jianqin Yin et al. (Code available)
+- ***_2023-05-18_***: [ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](https://paperswithcode.com/paper/one-peace-exploring-one-general) - Peng Wang (Code available)
 - ***_2023-04-17_***: [VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://paperswithcode.com/paper/valor-vision-audio-language-omni-perception) - Longteng Guo et al. (Code available)
 
 ### 2022
 - ***_2022-12-15_***: [Vision Transformers are Parameter-Efficient Audio-Visual Learners](https://paperswithcode.com/paper/vision-transformers-are-parameter-efficient) - Mohit Bansal et al. (Code available)
+- ***_2022-10-10_***: [AVQA: A Dataset for Audio-Visual Question Answering on Videos](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291) - Pinci Yang et al. (Code not available)
 - ***_2022-08-20_***: [Learning in Audio-visual Context: A Review, Analysis, and New Perspective](https://paperswithcode.com/paper/learning-in-audio-visual-context-a-review) - Xuelong Li et al. (Code not available)
 - ***_2022-03-26_***: [Learning to Answer Questions in Dynamic Audio-Visual Scenarios](https://paperswithcode.com/paper/learning-to-answer-questions-in-dynamic-audio) - Guangyao Li et al. (Code available)
+- ***_2022-03-21_***: [PACS: A Dataset for Physical Audiovisual CommonSense Reasoning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970286.pdf) - Samuel Yu et al. (Code not available)
+
+### 2021
+- ***_2021-10-11_***: [Pano-AVQA: Grounded Audio-Visual Question Answering on 360 Degree Videos](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf) - Heeseung Yun et al. (Code not available)
+
+### 2020
+- ***_2020-02-25_***: [Hierarchical Conditional Relation Networks for Video Question Answering](https://paperswithcode.com/paper/hierarchical-conditional-relation-networks) - Thao Minh Le (Code available)
 
 ## AVQA Challenge Leaderboard
 Stay tuned...
