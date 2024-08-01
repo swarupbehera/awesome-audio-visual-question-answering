@@ -25,7 +25,7 @@ Markdown format:
   * [Dataset](#Dataset)
   * [Papers](#papers)
      * [2024](#2024)
-        - [Arxiv 2024](#Arxiv-2022-1)
+        - [Arxiv 2024](#Arxiv-2024)
      * [2022](#2022)
         - [ECCV 2022](#ECCV-2022)
         - [CVPR 2022](#CVPR-2022)
@@ -50,23 +50,24 @@ Markdown format:
 ### 2024
 
 #### Arxiv 2024
-- [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/pdf/2407.20693v1) - Guangyao Li et al. **ECCV**. [Code](https://github.com/gewu-lab/tspm).
+- [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/pdf/2407.20693v1) - Guangyao Li et al. [Code](https://github.com/gewu-lab/tspm).
+- [Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://arxiv.org/pdf/2407.16171v1) - Kyu Ri Park et al. [Code: Not yet released](https://github.com/visualaikhu/missing-avqa).
 
 ### 2022
 
 #### ECCV 2022
-- [PACS: A Dataset for Physical Audiovisual CommonSense Reasoning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970286.pdf) - Samuel Yu et al. **ECCV**.
+- [PACS: A Dataset for Physical Audiovisual CommonSense Reasoning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970286.pdf) - Samuel Yu et al..
 
 #### CVPR 2022
-- [Learning To Answer Questions in Dynamic Audio-Visual Scenarios](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios_CVPR_2022_paper.pdf) - Guangyao Li et al., **CVPR**.
+- [Learning To Answer Questions in Dynamic Audio-Visual Scenarios](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios_CVPR_2022_paper.pdf) - Guangyao Li et al..
 
 #### ACM-Multimedia 2022
-- [AVQA: A Dataset for Audio-Visual Question Answering on Videos](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291) - Pinci Yang et al., **ACM Multimedia**.
+- [AVQA: A Dataset for Audio-Visual Question Answering on Videos](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291) - Pinci Yang et al..
 
 ### 2021
 
 #### ICCV 2021
-- [Pano-AVQA: Grounded Audio-Visual Question Answering on 360 Degree Videos](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf) - Heeseung Yun et al. **ICCV**.
+- [Pano-AVQA: Grounded Audio-Visual Question Answering on 360 Degree Videos](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf) - Heeseung Yun et al..
 
 ## AVQA Challenge Leaderboard
 Stay tuned...
