@@ -25,13 +25,8 @@ Markdown format:
   * [Dataset](#Dataset)
   * [Papers](#papers)
      * [2024](#2024)
-        - [Arxiv 2024](#Arxiv-2024)
+     * [2023](#2023)
      * [2022](#2022)
-        - [ECCV 2022](#ECCV-2022)
-        - [CVPR 2022](#CVPR-2022)
-        - [ACM Multimedia 2022](#ACM-Multimedia-2022)
-    * [2021](#2021)
-        - [ICCV 2022](#ICCV-2022)
   * [AVQA Challenge Leaderboard](#avqa-challenge-leaderboard)
   * [Licenses](#licenses)
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
@@ -48,8 +43,6 @@ Markdown format:
 ## Papers
 
 ### 2024
-
-#### Arxiv 2024
 - ***_2024-07-30_***: [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/pdf/2407.20693v1) - Guangyao Li et al. (Code available)
 - ***_2024-07-23_***: [Learning Trimodal Relation for AVQA with Missing Modality](https://paperswithcode.com/paper/learning-trimodal-relation-for-avqa-with) - Hong Joo Lee et al. (Code available)
 - ***_2024-07-01_***: [Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time](https://paperswithcode.com/paper/meerkat-audio-visual-large-language-model-for) - Mohamed Elhoseiny et al. (Code not available)
@@ -60,22 +53,31 @@ Markdown format:
 - ***_2024-05-13_***: [CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering](https://paperswithcode.com/paper/clip-powered-tass-target-aware-single-stream) - Jianqin Yin et al. (Code not available)
 - ***_2024-04-18_***: [Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering](https://paperswithcode.com/paper/look-listen-and-answer-overcoming-biases-for) - Pinghui Wang et al. (Code available)
 - ***_2024-03-24_***: [AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue](https://paperswithcode.com/paper/avicuna-audio-visual-llm-with-interleaver-and) - Jing Bi et al. (Code not available)
+- ***_2024-03-11_***: [Answering Diverse Questions via Text Attached with Key Audio-Visual Clues](https://paperswithcode.com/paper/answering-diverse-questions-via-text-attached) - Xin Liu, Zitong Yu, Qilang Ye (Code available)
+- ***_2024-03-07_***: [CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios](https://paperswithcode.com/paper/cat-enhancing-multimodal-large-language-model) - Xiaochun Cao, Rui Shao, Zitong Yu, Philip Torr, Xinyu Xie, Qilang Ye (Code available)
+- ***_2024-02-20_***: [Model Composition for Multimodal Large Language Models](https://paperswithcode.com/paper/model-composition-for-multimodal-large) - Yang Liu, Maosong Sun, Ming Yan, Peng Li, Fei Huang, Ji Zhang, Zheng Fang, Chi Chen, Ziyue Wang, Yiyang Du, Fuwen Luo (Code available)
+- ***_2024-02-19_***: [M2K-VDG: Model-Adaptive Multimodal Knowledge Anchor Enhanced Video-grounded Dialogue Generation](https://paperswithcode.com/paper/m2k-vdg-model-adaptive-multimodal-knowledge) - Yanfeng Wang, Hongcheng Liu, Yu Wang, Pingjie Wang (Code not available)
+- ***_2024-02-12_***: [AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension](https://paperswithcode.com/paper/air-bench-benchmarking-large-audio-language) - Zhou Zhao, Yichong Leng, Jin Xu, Jingren Zhou, Qian Yang, Xiaohuan Zhou, Chang Zhou, Yunfei Chu, Ziyue Jiang, Wenrui Liu, YuanJun Lv (Code available)
+- ***_2024-02-08_***: [CREMA: Generalizable and Efficient Video-Language Reasoning via Multimodal Modular Fusion](https://paperswithcode.com/paper/crema-multimodal-compositional-video) - Mohit Bansal, Jaehong Yoon, Shoubin Yu (Code available)
+- ***_2024-01-01_***: [Querying as Prompt: Parameter-Efficient Learning for Multimodal Language Model](https://paperswithcode.com/paper/querying-as-prompt-parameter-efficient) - Qiang Zhu, Jing Huang, Ming Kong, Tian Liang, Luyuan Chen (Code not available)
+
+### 2023
+- ***_2023-12-28_***: [AQUALLM: Audio Question Answering Data Generation Using Large Language Models](https://paperswithcode.com/paper/aquallm-audio-question-answering-data) - Swarup Ranjan Behera, Praveen Kumar Pokala, Krishna Mohan Injeti, Jaya Sai Kiran Patibandla, Balakrishna Reddy Pailla (Code not available)
+- ***_2023-12-06_***: [OneLLM: One Framework to Align All Modalities with Language](https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities) - Dahua Lin, Xiangyu Yue, Peng Gao, Jiaqi Wang, Jiaming Han, Kaipeng Zhang, Yu Qiao, Kaixiong Gong, Yiyuan Zhang (Code available)
+- ***_2023-11-09_***: [Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks](https://paperswithcode.com/paper/cross-modal-prompts-adapting-large-pre) - Zhou Zhao, Li Tang, Jieming Zhu, Yan Xia, Haoyi Duan, Mingze Zhou (Code available)
+- ***_2023-10-25_***: [CAD -- Contextual Multi-modal Alignment for Dynamic AVQA](https://paperswithcode.com/paper/cad-contextual-multi-modal-alignment-for) - Armin Mustafa et al. (Code not available)
+- ***_2023-08-28_***: [Parameter-Efficient Transfer Learning for Audio-Visual-Language Tasks](https://paperswithcode.com/paper/parameter-efficient-transfer-learning-for-2) - Unknown Authors (Code not available)
+- ***_2023-08-10_***: [Progressive Spatio-temporal Perception for Audio-Visual Question Answering](https://paperswithcode.com/paper/progressive-spatio-temporal-perception-for) - Guangyao Li et al. (Code available)
+- ***_2023-05-29_***: [Multi-Scale Attention for Audio Question Answering](https://paperswithcode.com/paper/multi-scale-attention-for-audio-question) - Guangyao Li et al. (Code available)
+- ***_2023-05-29_***: [VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset](https://paperswithcode.com/paper/vast-a-vision-audio-subtitle-text-omni-1) - Xinxin Zhu et al. (Code available)
+- ***_2023-05-25_***: [ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst](https://paperswithcode.com/paper/chatbridge-bridging-modalities-with-large) - Longteng Guo et al. (Code available)
+- ***_2023-05-21_***: [Target-Aware Spatio-Temporal Reasoning via Answering Questions in Dynamics Audio-Visual Scenarios](https://paperswithcode.com/paper/target-aware-spatio-temporal-reasoning-via) - Jianqin Yin et al. (Code available)
+- ***_2023-04-17_***: [VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://paperswithcode.com/paper/valor-vision-audio-language-omni-perception) - Longteng Guo et al. (Code available)
 
 ### 2022
-
-#### ECCV 2022
-- [PACS: A Dataset for Physical Audiovisual CommonSense Reasoning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970286.pdf) - Samuel Yu et al..
-
-#### CVPR 2022
-- [Learning To Answer Questions in Dynamic Audio-Visual Scenarios](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios_CVPR_2022_paper.pdf) - Guangyao Li et al..
-
-#### ACM-Multimedia 2022
-- [AVQA: A Dataset for Audio-Visual Question Answering on Videos](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291) - Pinci Yang et al..
-
-### 2021
-
-#### ICCV 2021
-- [Pano-AVQA: Grounded Audio-Visual Question Answering on 360 Degree Videos](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf) - Heeseung Yun et al..
+- ***_2022-12-15_***: [Vision Transformers are Parameter-Efficient Audio-Visual Learners](https://paperswithcode.com/paper/vision-transformers-are-parameter-efficient) - Mohit Bansal et al. (Code available)
+- ***_2022-08-20_***: [Learning in Audio-visual Context: A Review, Analysis, and New Perspective](https://paperswithcode.com/paper/learning-in-audio-visual-context-a-review) - Xuelong Li et al. (Code not available)
+- ***_2022-03-26_***: [Learning to Answer Questions in Dynamic Audio-Visual Scenarios](https://paperswithcode.com/paper/learning-to-answer-questions-in-dynamic-audio) - Guangyao Li et al. (Code available)
 
 ## AVQA Challenge Leaderboard
 Stay tuned...
