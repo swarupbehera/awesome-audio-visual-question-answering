@@ -24,6 +24,8 @@ Markdown format:
   * [Table of Contents](#table-of-contents)
   * [Dataset](#Dataset)
   * [Papers](#papers)
+     * [2024](#2024)
+        - [Arxiv 2024](#Arxiv-2022-1)
      * [2022](#2022)
         - [ECCV 2022](#ECCV-2022)
         - [CVPR 2022](#CVPR-2022)
@@ -44,6 +46,11 @@ Markdown format:
 | [DAQA](https://github.com/facebookresearch/daqa) | 100000 | 2244.4 | 178.2 | 80.8 | Programmatically Generated | English | 599294 | 36 | 80000 | 10000 | 10000 | -->
 
 ## Papers
+
+### 2024
+
+#### Arxiv 2024
+- [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/pdf/2407.20693v1) - Guangyao Li et al. **ECCV**. [Code](https://github.com/gewu-lab/tspm).
 
 ### 2022
 
