@@ -50,8 +50,16 @@ Markdown format:
 ### 2024
 
 #### Arxiv 2024
-- [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/pdf/2407.20693v1) - Guangyao Li et al. [Code](https://github.com/gewu-lab/tspm).
-- [Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://arxiv.org/pdf/2407.16171v1) - Kyu Ri Park et al. [Code: Not yet released](https://github.com/visualaikhu/missing-avqa).
+- ***_2024-07-30_***: [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/pdf/2407.20693v1) - Guangyao Li et al. (Code available)
+- ***_2024-07-23_***: [Learning Trimodal Relation for AVQA with Missing Modality](https://paperswithcode.com/paper/learning-trimodal-relation-for-avqa-with) - Hong Joo Lee et al. (Code available)
+- ***_2024-07-01_***: [Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time](https://paperswithcode.com/paper/meerkat-audio-visual-large-language-model-for) - Mohamed Elhoseiny et al. (Code not available)
+- ***_2024-06-14_***: [SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering](https://paperswithcode.com/paper/shmamba-structured-hyperbolic-state-space) - Zhe Yang et al. (Code not available)
+- ***_2024-06-13_***: [Towards Multilingual Audio-Visual Question Answering](https://paperswithcode.com/paper/towards-multilingual-audio-visual-question) - Rajesh Sharma et al. (Code available)
+- ***_2024-06-11_***: [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://paperswithcode.com/paper/videollama-2-advancing-spatial-temporal) - Lidong Bing et al. (Code available)
+- ***_2024-05-22_***: [CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models](https://paperswithcode.com/paper/crosscheckgpt-universal-hallucination-ranking) - Guangzhi Sun et al. (Code not available)
+- ***_2024-05-13_***: [CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering](https://paperswithcode.com/paper/clip-powered-tass-target-aware-single-stream) - Jianqin Yin et al. (Code not available)
+- ***_2024-04-18_***: [Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering](https://paperswithcode.com/paper/look-listen-and-answer-overcoming-biases-for) - Pinghui Wang et al. (Code available)
+- ***_2024-03-24_***: [AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue](https://paperswithcode.com/paper/avicuna-audio-visual-llm-with-interleaver-and) - Jing Bi et al. (Code not available)
 
 ### 2022
 
