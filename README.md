@@ -41,7 +41,8 @@ Markdown format:
 ## Papers
 
 ### 2024
-- ***_2024-07-30_***: [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/pdf/2407.20693v1) - Guangyao Li et al. (Code available)
+- ***_2024-08-15_***: Tackling Data Bias in MUSIC-AVQA: Crafting a Balanced Dataset for Unbiased Question-Answering](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Tackling_Data_Bias_in_MUSIC-AVQA_Crafting_a_Balanced_Dataset_for_WACV_2024_paper.pdf) - Xiulong Liu et al. (Code available)
+- ***_2024-07-30_***: [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/pdf/2407.20693v1) - Guangyao Li et al. (Dataset available)
 - ***_2024-07-23_***: [Learning Trimodal Relation for AVQA with Missing Modality](https://paperswithcode.com/paper/learning-trimodal-relation-for-avqa-with) - Hong Joo Lee et al. (Code available)
 - ***_2024-07-01_***: [Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time](https://paperswithcode.com/paper/meerkat-audio-visual-large-language-model-for) - Mohamed Elhoseiny et al. (Code not available)
 - ***_2024-06-14_***: [SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering](https://paperswithcode.com/paper/shmamba-structured-hyperbolic-state-space) - Zhe Yang et al. (Code not available)
