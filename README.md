@@ -12,7 +12,7 @@ Markdown format:
 
 ## Change Log
 
-- v1: 2023-11-23
+- v1: 2025-06-29
 
 ## Table of Contents
   * [Contributing](#contributing)
