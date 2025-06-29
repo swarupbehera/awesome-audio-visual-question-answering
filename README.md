@@ -50,7 +50,7 @@ Markdown format:
 ### 2024
 - ***_2024-12-13_***: [Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering](https://nips.cc/virtual/2024/poster/93303) – Jie Ma
 - ***_2024-12-05_***: [CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering](https://dl.acm.org/doi/10.1007/s11263-024-02289-z) – Yuanyuan Jiang
-- ***_2024-11-01_***: [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering](https://aclanthology.org/2024.findings-emnlp.933/) – Tianyu Yang *(Exact date in November not available)*
+- ***_2024-11-01_***: [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering](https://aclanthology.org/2024.findings-emnlp.933/) – Tianyu Yang
 - ***_2024-09-27_***: [Heterogeneous Interactive Graph Network for Audio–Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0950705124007998) – Yihan Zhao
 - ***_2024-08-15_***: [Tackling Data Bias in MUSIC-AVQA: Crafting a Balanced Dataset for Unbiased Question-Answering](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Tackling_Data_Bias_in_MUSIC-AVQA_Crafting_a_Balanced_Dataset_for_WACV_2024_paper.pdf) – Xiulong Liu et al. (Dataset available)
 - ***_2024-08-15_***: [Tackling Data Bias in MUSIC-AVQA: Crafting a Balanced Dataset for Unbiased Question-Answering](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Tackling_Data_Bias_in_MUSIC-AVQA_Crafting_a_Balanced_Dataset_for_WACV_2024_paper.pdf) - Xiulong Liu et al. (Dataset available)
